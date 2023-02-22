@@ -1,0 +1,12 @@
+Total number of tasks for user admin is 2.
+User admin is assigned 66.67 % of all tasks.
+User admin completed 0.0 % of their tasks.
+100.0% of admin's tasks must still be completed.
+0.0% of admin's uncompleted tasks are overdue.
+
+Total number of tasks for user user1 is 1.
+User user1 is assigned 33.33 % of all tasks.
+User user1 completed 0.0 % of their tasks.
+100.0% of user1's tasks must still be completed.
+0.0% of user1's uncompleted tasks are overdue.
+
